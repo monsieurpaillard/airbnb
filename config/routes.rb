@@ -1,6 +1,9 @@
 Rails.application.routes.draw do
+<<<<<<< HEAD
   devise_for :users
   root to: 'pages#home'
+=======
+>>>>>>> 444e713e7949acc3fbc00624bc22430c9d135fe9
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
